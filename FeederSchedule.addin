@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">    
+    <Assembly>C:\Users\Mohamed\AppData\Roaming\Autodesk\Revit\Addins\2015\FeederSchedule.dll </Assembly>
+    <AddInId>D4515F49-2CB6-4AFE-9EBD-7BD2803C4462</AddInId>
+    <FullClassName>FeederSchedule.ShowWelcomeDialog</FullClassName>
+    <Text>Show A Dialog Test</Text>
+    <VendorId>ADSK</VendorId>
+  </AddIn>
+</RevitAddIns>
